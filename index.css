@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Quicksand:wght@300..700&display=swap');
+@layer utilities{
+.v{
+font-family: "Playfair Display", serif;
+}
+.second-font{
+    font-family: "Quicksand", sans-serif;
+}
+.third-font{
+    font-family: "Michroma", sans-serif;
+}
+}
+
+@import "tailwindcss"
